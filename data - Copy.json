@@ -1,0 +1,66 @@
+{
+  "faculty": [
+    {
+      "id": "1785211112959",
+      "name": "BHARGAVI",
+      "department": "CSD"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "1784992740750",
+      "number": "424",
+      "capacity": "60"
+    },
+    {
+      "id": "1784992881785",
+      "number": "401",
+      "capacity": "60"
+    },
+    {
+      "id": "1785162540171",
+      "number": "106",
+      "capacity": "60"
+    },
+    {
+      "id": "1785211128329",
+      "number": "106",
+      "capacity": "60"
+    }
+  ],
+  "schedules": [
+    {
+      "id": "1785162578451",
+      "subject": "DATA STRUCTURE",
+      "faculty": "anitha madam",
+      "department": "CSE",
+      "semester": "1",
+      "section": "CSD",
+      "room": "106",
+      "day": "Monday",
+      "timeSlot": "09:00 AM - 10:00 AM"
+    },
+    {
+      "id": "1785162711536",
+      "subject": "DATA STRUCTURE",
+      "faculty": "anitha madam",
+      "department": "CSE",
+      "semester": "1",
+      "section": "CSD",
+      "room": "106",
+      "day": "Tuesday",
+      "timeSlot": "09:00 AM - 10:00 AM"
+    },
+    {
+      "id": "1785247757070",
+      "subject": "DATA STRUCTURE",
+      "faculty": "BHARGAVI",
+      "department": "CSE",
+      "semester": "1",
+      "section": "CSD",
+      "room": "106",
+      "day": "Wednesday",
+      "timeSlot": "09:00 AM - 10:00 AM"
+    }
+  ]
+}
